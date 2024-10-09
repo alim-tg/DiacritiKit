@@ -43,4 +43,13 @@ public class DiacriticsTests
         var converted = input.ReplaceDiacritics(new DiacriticOptions(locale));
         Assert.Equal(converted, expected);
     }
+        
+    [Theory]
+    [InlineData("Вот как то так", "ru-RU", "Vot kak to tak")]
+    [InlineData("Шли мимо леса, искали хорошие решения", "ru-RU", "Shli mimo lesa, iskali horoshie resheniya")]
+    public void Replace_Diacritics_Russian_Success(string input, string locale, string expected)
+    {
+        var converted = input.ReplaceDiacritics(new DiacriticOptions(locale));
+        Assert.Equal(converted, expected);
+    }
 }
