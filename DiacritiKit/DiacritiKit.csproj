@@ -12,7 +12,7 @@
         <PackageTags>Diacritic;diacritic-replacemnts;string-formatting;accent</PackageTags>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Version>0.0.1</Version>
-        <RepositoryUrl></RepositoryUrl>
+        <RepositoryUrl>https://github.com/alim-tg/DiacritiKit</RepositoryUrl>
         <PackageProjectUrl></PackageProjectUrl>
         <PackageIconUrl></PackageIconUrl>
         <LangVersion>default</LangVersion>
