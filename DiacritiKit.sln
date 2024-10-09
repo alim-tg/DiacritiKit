@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiacritiKit", "DiacritiKit\DiacritiKit.csproj", "{E5FF4B01-CA45-44E4-940E-BF573C158B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiacritiKit.Tests", "DiacritiKit.Tests\DiacritiKit.Tests.csproj", "{ACAFDC7B-CFAF-42B1-B3D0-E29F9D4DB94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FF4B01-CA45-44E4-940E-BF573C158B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FF4B01-CA45-44E4-940E-BF573C158B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FF4B01-CA45-44E4-940E-BF573C158B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FF4B01-CA45-44E4-940E-BF573C158B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAFDC7B-CFAF-42B1-B3D0-E29F9D4DB94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAFDC7B-CFAF-42B1-B3D0-E29F9D4DB94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAFDC7B-CFAF-42B1-B3D0-E29F9D4DB94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAFDC7B-CFAF-42B1-B3D0-E29F9D4DB94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

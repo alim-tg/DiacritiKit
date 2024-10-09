@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        
+        <Authors>Alim Iusufov [TenenGroup]</Authors>
+        <Description>Locale specific diacritics replacements</Description>
+        <PackageId>DiacritiKit</PackageId>
+        <Title>DiacritiKit</Title>
+        <Product>DiacritiKit</Product>
+        <PackageTags>Diacritic;diacritic-replacemnts;string-formatting;accent</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Version>0.0.1</Version>
+        <RepositoryUrl></RepositoryUrl>
+        <PackageProjectUrl></PackageProjectUrl>
+        <PackageIconUrl></PackageIconUrl>
+        <LangVersion>default</LangVersion>
+        
+    </PropertyGroup>
+
+</Project>
