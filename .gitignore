@@ -1,0 +1,25 @@
+.idea
+.vscode
+strapi
+allure-results
+allure-artifacts
+public
+node_modules
+public/uploads
+/tg-catalog/api/site-category/controllers/site-category.js
+/tg-catalog/api/site-category/models/site-category.js
+/tg-catalog/middlewares/tg-api/lib/queryBuilder/types.js
+/tg-catalog/api/site-category/services/site-category.js
+/tg-catalog/api/site-category/services/helpers/publishHelper.js
+tools/import/site/catacon.exe
+.history
+/tools/catacon/catacon.exe
+/tg-catalog/api/om-product-history/controllers/om-product-history.js
+[Bb]in
+[Oo]bj
+*.suo
+*.user
+.vs/
+
+# Appsettings files for local developer's environment
+**/appsettings.*.local.json
